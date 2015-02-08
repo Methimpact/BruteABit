@@ -1,5 +1,6 @@
 # BruteABit
-Bitcoin RPC Login Brute Force @ crypto^HACK_ 2015 - 02082015
+Bitcoin RPC Login Brute Force @ crypto^HACK_ : 2015 : cryptohack.org  - 02/08/2015
+
 #
 
 
